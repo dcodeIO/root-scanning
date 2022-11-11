@@ -1,4 +1,17 @@
-![Build Status](https://github.com/WebAssembly/spec/actions/workflows/main.yml/badge.svg)
+![Build Status](https://github.com/WebAssembly/root-scanning/actions/workflows/main.yml/badge.svg)
+
+# Root Scanning proposal for WebAssembly
+
+This repository is a clone of [github.com/WebAssembly/spec/](https://github.com/WebAssembly/spec/).
+It is meant for discussion, prototype specification and implementation of a proposal to add root scanning support to WebAssembly.
+
+* See the [overview](proposals/root-scanning/Overview.md) for a summary and rationale of the proposal.
+
+<!--
+* See the [modified spec](https://webassembly.github.io/root-scanning/core) for details.
+-->
+
+Original `README` from upstream repository follows...
 
 # spec
 
